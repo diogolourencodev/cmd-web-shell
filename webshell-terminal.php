@@ -1,5 +1,3 @@
-// pass: nothingissecure
-
 <?php
 session_start();
 
